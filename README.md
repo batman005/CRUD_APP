@@ -1,3 +1,7 @@
+![CRUD APP](https://user-images.githubusercontent.com/51878340/113416021-07ee1b80-93de-11eb-9e77-c12124762f87.JPG)
+MADED AN CRUD APP USING REACT JS AND  JSON SERVER LOCAL DB
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
